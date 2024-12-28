@@ -91,6 +91,15 @@ GET _tasks/YOUR_TASK_ID_RETURNED_FROM_COMMAND
 ```
 
 
+Now you can run the eval
+
+```
+python evaluate.py
+```
+
+the results our output to csv and json files
+
+
 ## My DevTools right now
 
 ```
