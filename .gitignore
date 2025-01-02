@@ -3,7 +3,7 @@
 .env
 __pycache__
 .pytest_cache
-Dataset/*
+load_and_evaluate/Dataset/*
 .deepeval-*
 *.zip
 
